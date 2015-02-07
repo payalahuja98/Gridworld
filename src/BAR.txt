@@ -1,0 +1,10 @@
+Steps 15
+PsychicGecko1 0 0
+PsychicGecko2 8 8
+Rock 1 4
+Rock 2 4
+Rock 3 4
+Rock 4 4
+Rock 5 4
+Rock 6 4
+Rock 7 4
